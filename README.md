@@ -1,5 +1,4 @@
-#NOTE
-  A simple ERC20 based staking system (aka Token).
+A simple ERC20 based staking system (aka Token).
 
 #Platform Supported
   Platform independent distributed backend system
